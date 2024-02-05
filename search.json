@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "bbm tutorial2",
+    "section": "",
+    "text": "Hello!\nhi i am andrea and this is a website"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "blabla",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "cv",
+    "section": "",
+    "text": "Full CV"
+  },
+  {
+    "objectID": "index.html#more-about-me",
+    "href": "index.html#more-about-me",
+    "title": "bbm tutorial2",
+    "section": "more about me",
+    "text": "more about me"
+  }
+]
